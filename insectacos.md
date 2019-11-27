@@ -7,7 +7,7 @@ This recipe is taken as an example from https://github.com/sinker/tacofancy/blob
 We are avid meat eaters, but these insect-based tacos are one alternative to standard meat
 
 - grilled grasshoppers
-- fried worms
+- few fried worms
 - Pickled chilis and vegetables
 - Caramelized red onions
 - Guacamole
